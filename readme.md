@@ -2,7 +2,7 @@
 
 Step 1 - Import Express: import express from 'express';
 
-    Think Express asa chef, you're saying Come help me cook up a web server, so basically it's a toolbox kinda thing.
+    Think Express as a chef, you're saying Come help me cook up a web server, so basically it's a toolbox kinda thing.
 
 
 Step 2 - Create an Express App
